@@ -9,7 +9,8 @@
         "main.blocks",
         "README.md",
         "assets.json",
-        "tutorial.md"
+        "tutorial.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [],
     "targetVersions": {
